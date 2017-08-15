@@ -1,0 +1,6 @@
+framework module ColorExtension {
+  umbrella header "ColorExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
